@@ -11,3 +11,4 @@ resource "aws_iam_user" "IAMUser" {
     name = "m-osada@cresco-jinzai"
 }
 luvina.net
+hello
